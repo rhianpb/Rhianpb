@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas
+Sou estudante de Tecnologia, atualmente no curso de Análise e Desenvolvimento de Sistemas, com conhecimentos em Java, Python, SQL, HTML, CSS e em frameworks como Angular e Spring Boot. Tenho facilidade para colaborar em equipe, mantenho sempre uma postura tranquila diante de desafios e estou em constante busca por aprendizado e evolução profissional. Meu objetivo é crescer na área, aplicando meus conhecimentos de forma prática e desenvolvendo soluções que tragam impacto positivo.
 
 
 ## 🌐 Socials:
